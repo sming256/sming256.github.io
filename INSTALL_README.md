@@ -36,3 +36,10 @@ clone repository, 安装hexo-deployer-git
 git clone ...
 npm install hexo-deployer-git --save
 ```
+
+
+安装的插件
+npm install hexo-renderer-pug --save
+npm install hexo-renderer-sass --save
+hexo-generator-feed
+hexo-wordcount
