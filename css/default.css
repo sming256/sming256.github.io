@@ -621,10 +621,10 @@ a.gitment-editor-footer-tip:hover {
   overflow: hidden;
 }
 
-.gitment-markdown code,
+.gitment-markdown 
 .gitment-markdown kbd,
 .gitment-markdown pre {
-  font-family: monospace, monospace;
+  font-family: Consolas, monospace, monospace;
   font-size: 1em;
 }
 

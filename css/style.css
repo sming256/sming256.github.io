@@ -236,11 +236,12 @@ div {
       word-break: break-word;
       overflow-wrap: break-word; }
       .post .post-content p code {
-        display: inline-block;
-        margin: 0 5px;
-        padding: 0 5px;
-        background: #f7f8f8;
-        font-family: Menlo, Consolas, monospace !important; }
+        padding: 2px 5px;
+        font-size: 90%;
+        border-radius: 4px;
+        color: #1c8d7d;
+        background: #f4fff9;
+        font-family: Consolas, monospace !important; }
       .post .post-content p a {
         color: #01579f;
         padding-bottom: 2px;
@@ -270,11 +271,12 @@ div {
       .post .post-content ul ul, .post .post-content ol ul {
         margin: 0; }
       .post .post-content ul code, .post .post-content ol code {
-        display: inline-block;
-        margin: 0 5px;
-        padding: 0px 5px;
-        background: #bdc0c0d3;
-        font-family: Menlo, Monaco, Andale Mono, lucida console !important; }
+        padding: 2px 5px;
+        font-size: 90%;
+        border-radius: 4px;
+        color: #1c8d7d;
+        background: #f4fff9;
+        font-family: Consolas, monospace !important; }
       .post .post-content ul a, .post .post-content ol a {
         color: #01579f;
         padding-bottom: 2px;
@@ -1356,6 +1358,13 @@ table {
     border-bottom: 2px solid #909ba2; }
   table td {
     padding: 5px 10px; }
+    table td code {
+      padding: 2px 5px;
+      font-size: 90%;
+      border-radius: 4px;
+      color: #1c8d7d;
+      background: #f4fff9;
+      font-family: Consolas, monospace !important; }
   table tr:nth-child(2n) {
     background: #f7f8f8; }
 
