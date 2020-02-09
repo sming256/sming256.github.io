@@ -6,7 +6,7 @@
   <link href="/rss.xml" rel="self"/>
   
   <link href="http://shumings.com/"/>
-  <updated>2020-02-01T02:32:19.264Z</updated>
+  <updated>2020-02-09T07:25:26.134Z</updated>
   <id>http://shumings.com/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://shumings.com/2020/02/01/2020-02-01-test/"/>
-    <id>http://shumings.com/2020/02/01/2020-02-01-test/</id>
-    <published>2020-02-01T02:26:52.000Z</published>
-    <updated>2020-02-01T02:32:19.264Z</updated>
-    
-    <content type="html"><![CDATA[<p>这里是正文，看一下字体是什么。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;这里是正文，看一下字体是什么。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>常用conda命令</title>
